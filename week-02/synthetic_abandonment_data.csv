@@ -1,0 +1,151 @@
+reason,average_days,team_size,complexity,reason_num,complexity_num
+Poor planning,41,7,Low,3,1
+Budget issues,27,6,Medium,0,2
+Technical difficulties,43,5,Medium,5,2
+Budget issues,49,8,Medium,0,2
+Budget issues,19,4,High,0,0
+Lack of interest,47,2,Low,1,1
+Technical difficulties,33,2,High,5,0
+Technical difficulties,40,5,High,5,0
+Technical difficulties,17,4,Medium,5,2
+Budget issues,36,4,High,0,0
+Poor planning,11,7,Medium,3,2
+Technical difficulties,26,8,Low,5,1
+Team conflicts,32,7,Medium,4,2
+Budget issues,6,7,Low,0,1
+Lack of interest,46,7,Medium,1,2
+Poor planning,49,7,High,3,0
+Team conflicts,10,7,High,4,0
+Team conflicts,32,6,Low,4,1
+Lack of interest,32,4,Low,1,1
+Poor planning,48,7,Low,3,1
+Budget issues,48,4,Medium,0,2
+Lack of time,24,4,Medium,2,2
+Poor planning,34,3,Low,3,1
+Lack of interest,15,6,High,1,0
+Team conflicts,32,7,Medium,4,2
+Budget issues,29,2,Medium,0,2
+Poor planning,43,5,Medium,3,2
+Lack of time,37,8,Low,2,1
+Lack of time,5,2,Low,2,1
+Technical difficulties,31,6,Low,5,1
+Technical difficulties,17,5,Low,5,1
+Lack of interest,45,6,Low,1,1
+Poor planning,7,4,High,3,0
+Poor planning,43,5,High,3,0
+Team conflicts,10,4,Low,4,1
+Team conflicts,12,2,Medium,4,2
+Team conflicts,31,2,Low,4,1
+Technical difficulties,13,5,High,5,0
+Poor planning,41,5,High,3,0
+Poor planning,37,7,Medium,3,2
+Lack of time,46,6,High,2,0
+Technical difficulties,48,7,Low,5,1
+Budget issues,28,6,Medium,0,2
+Technical difficulties,19,7,Low,5,1
+Budget issues,36,4,Low,0,1
+Lack of time,36,5,Medium,2,2
+Lack of interest,28,2,Low,1,1
+Poor planning,45,6,High,3,0
+Lack of time,16,6,Low,2,1
+Poor planning,43,2,Medium,3,2
+Team conflicts,6,7,Medium,4,2
+Lack of interest,7,6,Medium,1,2
+Lack of interest,41,8,Low,1,1
+Lack of time,21,4,Medium,2,2
+Lack of interest,6,5,Medium,1,2
+Budget issues,6,2,Low,0,1
+Lack of interest,32,5,High,1,0
+Poor planning,27,8,Low,3,1
+Poor planning,41,6,Medium,3,2
+Poor planning,36,6,Medium,3,2
+Poor planning,37,8,Low,3,1
+Budget issues,5,2,High,0,0
+Technical difficulties,23,4,Medium,5,2
+Team conflicts,6,3,Medium,4,2
+Lack of time,48,2,Medium,2,2
+Poor planning,30,3,Low,3,1
+Lack of interest,36,8,Medium,1,2
+Poor planning,10,7,High,3,0
+Lack of interest,36,3,Medium,1,2
+Team conflicts,8,4,Medium,4,2
+Team conflicts,15,7,High,4,0
+Team conflicts,21,3,Medium,4,2
+Lack of interest,42,8,Low,1,1
+Poor planning,28,7,Low,3,1
+Team conflicts,9,8,Low,4,1
+Budget issues,38,3,High,0,0
+Lack of interest,10,8,Medium,1,2
+Lack of interest,26,4,Low,1,1
+Poor planning,15,3,High,3,0
+Lack of interest,20,3,Medium,1,2
+Lack of interest,37,3,High,1,0
+Team conflicts,13,2,Low,4,1
+Poor planning,10,2,Low,3,1
+Team conflicts,20,2,Low,4,1
+Team conflicts,33,4,High,4,0
+Poor planning,7,7,High,3,0
+Lack of time,24,8,Low,2,1
+Team conflicts,40,6,High,4,0
+Budget issues,23,3,Low,0,1
+Budget issues,30,8,Low,0,1
+Lack of interest,7,3,Medium,1,2
+Budget issues,23,4,High,0,0
+Lack of interest,24,3,Low,1,1
+Lack of time,36,2,Low,2,1
+Poor planning,11,6,High,3,0
+Poor planning,45,5,Medium,3,2
+Poor planning,37,3,Medium,3,2
+Budget issues,44,8,Low,0,1
+Lack of time,43,2,High,2,0
+Budget issues,22,5,Medium,0,2
+Budget issues,44,6,High,0,0
+Lack of time,5,5,High,2,0
+Lack of time,15,2,Low,2,1
+Lack of time,32,7,Medium,2,2
+Lack of time,29,7,Low,2,1
+Poor planning,27,5,Medium,3,2
+Technical difficulties,35,4,Medium,5,2
+Technical difficulties,34,8,Medium,5,2
+Lack of time,46,8,Medium,2,2
+Technical difficulties,39,5,Medium,5,2
+Technical difficulties,11,3,High,5,0
+Lack of time,20,3,Low,2,1
+Technical difficulties,30,8,High,5,0
+Budget issues,6,8,Medium,0,2
+Lack of interest,5,7,Low,1,1
+Lack of interest,16,4,Medium,1,2
+Lack of time,9,2,Low,2,1
+Poor planning,41,3,High,3,0
+Lack of time,36,8,Low,2,1
+Poor planning,13,7,Low,3,1
+Lack of interest,45,6,Low,1,1
+Lack of time,39,7,Low,2,1
+Team conflicts,23,3,Low,4,1
+Budget issues,20,3,Medium,0,2
+Technical difficulties,7,7,Low,5,1
+Poor planning,24,2,Low,3,1
+Team conflicts,28,5,High,4,0
+Technical difficulties,37,3,Low,5,1
+Technical difficulties,28,7,High,5,0
+Lack of time,15,8,Medium,2,2
+Technical difficulties,12,7,Low,5,1
+Budget issues,40,4,High,0,0
+Team conflicts,42,5,High,4,0
+Technical difficulties,44,6,Medium,5,2
+Lack of time,24,2,Low,2,1
+Budget issues,39,6,Low,0,1
+Lack of interest,29,5,High,1,0
+Team conflicts,39,5,Low,4,1
+Technical difficulties,29,5,High,5,0
+Lack of time,33,6,Low,2,1
+Lack of interest,22,8,High,1,0
+Lack of interest,22,5,Low,1,1
+Poor planning,6,7,Medium,3,2
+Budget issues,39,6,Low,0,1
+Technical difficulties,20,5,Low,5,1
+Lack of time,45,7,Medium,2,2
+Poor planning,40,8,Low,3,1
+Budget issues,37,4,Medium,0,2
+Poor planning,8,8,Low,3,1
+Team conflicts,37,5,High,4,0
