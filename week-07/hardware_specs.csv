@@ -1,11 +1,11 @@
 os,hardware_model,ram,speed
-macOS Sonoma,Razer Blade 14,8,3.2
-Windows 11,MacBook Air M2,32,3.6
-Fedora 40,Razer Blade 14,32,4.5
-Debian 12,Acer Predator Helios,64,4.5
-Ubuntu 22.04,Asus ROG Zephyrus,8,3.6
-Windows 11,Acer Predator Helios,16,3.2
-Arch Linux,HP Spectre x360,32,4.0
-Windows 11,Razer Blade 14,64,2.8
-Ubuntu 22.04,Razer Blade 14,32,2.8
-Windows 11,Acer Predator Helios,8,4.5
+macOS Ventura,Razer Blade 14,32,4.0
+Ubuntu 24.04,MacBook Air M2,16,4.5
+Debian 12,Surface Laptop 5,32,2.8
+macOS Sonoma,Acer Predator Helios,16,2.8
+Fedora 40,Razer Blade 14,64,4.0
+Ubuntu 22.04,Framework Laptop,32,4.5
+Debian 12,Dell XPS 13,32,4.0
+Fedora 40,MacBook Air M2,64,4.5
+Ubuntu 22.04,Asus ROG Zephyrus,16,2.4
+macOS Ventura,MSI Stealth 16,64,2.8
