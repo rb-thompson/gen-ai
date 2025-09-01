@@ -6,3 +6,6 @@ __pycache__/
 
 # Ignore dotenv files
 .env
+
+# Ignore /vectordb
+*/vectordb
